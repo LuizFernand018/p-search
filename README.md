@@ -37,7 +37,7 @@ git clone https://github.com/LuizFernand018/p-search.git
 Acesse a pasta do projeto:
 
 ```bash
-cd cd .\p-search\
+cd .\p-search\
 ```
 
 ### 3. Instale as dependências
@@ -80,9 +80,7 @@ O desenvolvimento deste projeto proporcionou contato prático com conceitos e fe
 
 ## 📚 Contexto acadêmico
 
-Este projeto foi desenvolvido em colaboração com outros estudantes no contexto de uma atividade acadêmica. O código deste repositório foi aproveitado de um repositório anterior utilizado pelo grupo e está sendo organizado aqui para fins de portfólio e apresentação de experiência prática com Python, interfaces gráficas e manipulação de dados.
-
-Os créditos e as referências ao projeto original devem ser mantidos conforme a licença e as condições de uso aplicáveis.
+Este projeto foi desenvolvido em colaboração com outros estudantes no contexto de uma atividade acadêmica. O código deste repositório foi aproveitado de um repositório anterior utilizado em grupo e está sendo organizado aqui para fins de portfólio e apresentação de experiência prática com Python, interfaces gráficas e manipulação de dados.
 
 ## 👤 Autor
 
